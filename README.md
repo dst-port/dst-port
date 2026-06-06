@@ -1,4 +1,4 @@
-![banner](https://i.pinimg.com/originals/57/3b/4d/573b4dcf64a76c807a3ce3e0660f8d9b.gif)
+![banner]([https://i.pinimg.com/736x/26/79/cd/2679cd0290c3b66d178ca02388510273.jpg)
 
 # DST
 
