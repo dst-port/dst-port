@@ -8,7 +8,7 @@
 
 Future SOC-Analyst & Network Arcitech
 
-Currently working with Wazuh, CIS Benchmarks, and OSINT tooling.
+Currently working with programming random stuff,related and unrelated to cyber security,blue team CTFS.
 
 ---
 
